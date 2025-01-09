@@ -38,6 +38,7 @@ The **SmartGreenhouseSensors** project is a robust and modular system for managi
 
 Sensor data is provided as a `List<Double>` in the following format:
 
+---
 
 ### Example Input
 ```java
