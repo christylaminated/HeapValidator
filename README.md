@@ -45,17 +45,4 @@ Sensor data is provided as a `List<Double>` in the following format:
 List<Double> sensorData = List.of(
     20231106010101.0, 45.5, 34.0, -999.0, 46.6, 40.0, 20231130020202.0, 22.2, 20.0
 );
----
-### How to run
-Clone the repo
-```bash
-git clone <repository-url>
-cd SmartGreenhouseSensors
-Compile the code
-```bash
-javac *.java
-Run Tests
-```bash
-java Examples
-
 
